@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "server.h": "c",
+        "network.h": "c",
+        "in.h": "c",
+        "constants.h": "c",
+        "io_helpers.h": "c",
+        "thread_helpers.h": "c"
+    }
+}
